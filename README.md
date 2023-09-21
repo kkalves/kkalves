@@ -27,7 +27,7 @@
 
 ### :octocat: GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kkalves&theme=transparent&border_radius=15&locale=pt_BR&bg_color=000&border=BDF7B7&ring=BDF7B7&fire=EB5454&currStreakNum=EB5454&sideNums=BDF7B7&sideLabels=FFF&currStreakLabel=BDF7B7&dates=F8F4A6&stroke=BDF7B7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kkalves&theme=transparent&border_radius=15&locale=pt_BR&background=000&border=BDF7B7&ring=BDF7B7&fire=EB5454&currStreakNum=EB5454&sideNums=BDF7B7&sideLabels=FFF&currStreakLabel=BDF7B7&dates=F8F4A6&stroke=BDF7B7)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkalves&theme=transparent&border_radius=15&locale=pt-BR&bg_color=000&border_color=BDF7B7&show_icons=true&icon_color=BDF7B7&ring_color=BDF7B7&text_color=FFF&count_private=true&include_all_commits=true&hide_title=true&hide=prs,issues)
 
